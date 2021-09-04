@@ -3,23 +3,23 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+Auto Filter Bot by @tubots
 
-This bot is exclusively made for @dcompanymoviess
+This bot is exclusively made for @trollcompanymovies
 
-You can see me in @dcompanymoviess <i>help</i></b>"""
+You can see me in @trollcompanymovies <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
-<i>    Sorry you can't use me 😔,for movies join @trolldcompany
+<i>    Sorry you can't use me 😔,for movies join @trollcompanymovies
 </i>
 
-<b>© @Trolldcompany</b>"""
+<b>© @trollcompanymovies</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : D C Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : T C Filter Bot</b>
     
-⭕️<b>Creater :</b> @n_a_c_bot_developers
+⭕️<b>Creater :</b> @Ramu_XD
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
