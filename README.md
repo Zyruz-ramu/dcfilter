@@ -31,8 +31,7 @@
 ## Installation
 
 ### Deploy to Heroku
-<a href='https://svgshare.com/s/ZiE' ><img src='https://svgshare.com/i/ZiE.svg' title='' /></a>
-<a href="https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/tcfilter"><img src="https://svgshare.com/s/ZiE" alt="image-processing20210405-32501-doifx3" border="0" height="60" width="200" align="center" /></a>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/tcfilter"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ### Deploy in your vps
 ```sh
 git clone https://github.com/nikhil/dcfilter
